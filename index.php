@@ -328,7 +328,7 @@ $gtm = isset($_GET['gtm']) ? $_GET['gtm'] : $_COOKIE['gtm'];
                     </div>
                 </div>
 
-                <a href="#sicfjuosfjaiua" rel='2' class="vgdfudcveezala zortpvjkdxp">Оформити замовлення</a>
+                <a href="#order_form" rel='2' class="vgdfudcveezala zortpvjkdxp">Оформити замовлення</a>
             </div>
 
             <br>
@@ -362,7 +362,7 @@ $gtm = isset($_GET['gtm']) ? $_GET['gtm'] : $_COOKIE['gtm'];
                     </div>
                 </div>
 
-                <a href="#sicfjuosfjaiua" rel='2' class="vgdfudcveezala zortpvjkdxp">Оформити замовлення</a>
+                <a href="#order_form" rel='2' class="vgdfudcveezala zortpvjkdxp">Оформити замовлення</a>
             </div>
 
             <br>
@@ -398,7 +398,7 @@ $gtm = isset($_GET['gtm']) ? $_GET['gtm'] : $_COOKIE['gtm'];
                     </div>
                 </div>
 
-                <a href="#sicfjuosfjaiua" rel='2' class="vgdfudcveezala zortpvjkdxp">Оформити замовлення</a>
+                <a href="#order_form" rel='2' class="vgdfudcveezala zortpvjkdxp">Оформити замовлення</a>
             </div>
 
             <br>
@@ -559,7 +559,7 @@ $gtm = isset($_GET['gtm']) ? $_GET['gtm'] : $_COOKIE['gtm'];
 
                 <p align="center">Для замовлення та консультації заповніть форму:</p>
                 <br>
-                <form id="sicfjuosfjaiua" class="pzgghtazppvd" action="form_handler.php" method="post">
+                <form id="order_form" class="pzgghtazppvd" action="form_handler.php" method="post">
 
                     <input class="uwvqpvolzaqfvfu" type="text" name="name" placeholder="Введіть ваше ім'я" required>
                     <input class="uwvqpvolzaqfvfu" type="tel" name="phone" placeholder="Введіть Ваш телефон" required>
